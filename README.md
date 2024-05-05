@@ -1,9 +1,6 @@
 ### Hi there 👋, Ismail Savcan
 #### Senior FullStack Software Test Engineer
 
-# 💫 About Me:
-I am proficient in JavaScript, TypeScript, Java, Node.js, and other popular libraries and tools, such as Cypress, Playwright, Jest, WebDriverIo, Selenium, Appium, JMeter, K6, Jira, X-Ray, Cucumber, Gherkin, GitHub Actions and Jenkins. I am also ISTQB certified and skilled at designing and implementing rapid and impactful diagnostic and testing systems. I have successfully delivered multiple projects, including developing automated testing systems for a large contract with a government agency. I work collaboratively with my team and other stakeholders, following the agile methodology and attending all scrum ceremonies
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailsavcan) 
