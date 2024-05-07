@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/ismailsavcan/count.svg)
+
 
 ### Hi there 👋
 
@@ -25,3 +25,4 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ismailsavcan)  
 
 
+  ![Visitor Count](https://profile-counter.glitch.me/ismailsavcan/count.svg)
